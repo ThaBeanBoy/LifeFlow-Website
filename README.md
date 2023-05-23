@@ -2,6 +2,24 @@
 
 ![Thumbnail](./thumnail.png)
 
+## Project overview
+
+This project is meant to showcase the process from design to deployment of a static website. The first thing covered is
+
+### Design
+
+This is a quick overview of the design process, how LifeFlow's (a made-up company) website is designed, the typography decisions, colours & other elements of the design.
+
+### Responsive navigation
+
+We go over how to make the top bar of the website:
+
+1. We'll see how to import the logo of the website.
+2. How to make the navigation.
+3. How to make the top bar responsive
+4. How to make the mobile navigation
+5. The javascript required to make the mobile navigation open & closeable.
+
 ## Design
 
 **NB: This section is not necessary if you are just into the development protion**
